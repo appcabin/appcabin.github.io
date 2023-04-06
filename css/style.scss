@@ -112,12 +112,12 @@ button.btn, input.btn {
 	2.0 Home Hero
 --------------------------------------------------------------*/
 .hero-container {
-  margin: 10em 0 9em 0;
+  margin: 10em 0 0em 0;
   @include bp-xsmall {
-    margin: 5em 0 5em 0;
+    margin: 5em 0 0em 0;
   }
   @include bp-small {
-    margin: 5em 0 5em 0;
+    margin: 5em 0 0em 0;
   }
 }
 
@@ -206,14 +206,14 @@ button.btn, input.btn {
 	3.0 Posts
 --------------------------------------------------------------*/
 #portfolio .container {
-  margin-top: 10em;
+  margin-top: 00em;
   @include bp-xsmall {
-    margin-top: 2em;
+    margin-top: 0em;
   }
   .break {
     margin: 8em 0;
     @include bp-xsmall {
-      margin: 2em 0;
+      margin: 0em 0;
     }
   }
 }
